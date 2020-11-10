@@ -1,4 +1,3 @@
-#include<iostream>
 #include<stdio.h>
 int main()
 {
@@ -8,8 +7,7 @@ int main()
     if(x>='a'&&x<='z')
     {
         printf("alphabet is in lower case",x);
-    
-    } break;
+    }
     if(x>='A'&&x<='Z')
     {
         printf("alphabet is in upper case",x);

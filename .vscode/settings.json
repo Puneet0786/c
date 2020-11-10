@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "MAIN.C": "cpp",
-        "sum.C": "cpp"
+        "sum.C": "cpp",
+        "FACTORIAL.C": "cpp"
     }
 }
